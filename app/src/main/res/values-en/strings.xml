@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">myApp</string>
+    <string name="titulo_aplicacion">CotizApp</string>
+    <string name="button_login">LOGIN</string>
+    <string name="usuario">User:</string>
+    <string name="contrasena">Password:</string>
+    <string name="registrar">Not a member?</string>
+    <string name="registrar_nuevo">Sign up now</string>
+
+</resources>
